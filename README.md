@@ -1,6 +1,6 @@
 # Capstone Project: Breast Cancer Diagnostic Analysis
 
-**Author:** Diya
+**Author:** Arnav Gehlot
 **Dataset:** Breast Cancer Wisconsin (Diagnostic) Dataset (Source: UCI Machine Learning Repository)
 
 ## 📌 Project Overview
